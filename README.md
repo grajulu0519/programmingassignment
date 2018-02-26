@@ -2,7 +2,9 @@
 
 ## Information
 
-This project fetches the client information from the webpage and displays the details of the customer wit latitude and longitude of the customer's address. 
+This project fetches the client information from the webpage and displays the details of the customer with latitude and longitude of the customer's address. 
+
+It also validates the customer details using validation bean.
 
 ## Instruction
 
