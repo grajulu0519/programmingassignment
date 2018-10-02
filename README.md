@@ -14,4 +14,4 @@ Run project on Tomcat Server.
 
 ## Assignment Done By
 
-Gauri Govind Rajulu(A20404821)
+Gauri Rajulu
